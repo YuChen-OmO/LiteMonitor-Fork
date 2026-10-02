@@ -1,5 +1,10 @@
 [中文](./README.md)
 
+> **⚠️ Disclaimer**
+> This is an unofficial fork of [LiteMonitor](https://github.com/Diorer/LiteMonitor).
+> I(雨辰&YuChen_OmO) am not a member of the official LiteMonitor team. This project aims to fix some bugs in the original version and explore new hardware monitoring solutions. All original code copyrights belong to the original authors.
+
+
 # <img src="./resources/screenshots/logo.png"  width="28" style="vertical-align: middle; margin-top: -4px;" /> LiteMonitor-Fork
 A lightweight, customizable open-source desktop hardware monitoring software, and a community-fixed fork of LiteMonitor.
 

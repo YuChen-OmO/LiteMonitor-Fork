@@ -1,5 +1,9 @@
 [English](./README.en.md)
 
+> **⚠️ 免责声明（Disclaimer）**
+> 本项目是 [LiteMonitor](https://github.com/Diorer/LiteMonitor) 的非官方同人修复分支（Unofficial Fork）。
+> 本人（雨辰&YuChen_OmO）仅是开源爱好者，并非 LiteMonitor 官方团队成员。本项目旨在修复原版中的部分 Bug，并探索新的硬件监控方案。所有原始代码版权均归原作者所有。
+
 # <img src="./resources/screenshots/logo.png"  width="28" style="vertical-align: middle; margin-top: -4px;" /> LiteMonitor-Fork
 一款轻量、可定制的开源桌面硬件监控软件LiteMonitor的同人修复版
 
